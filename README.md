@@ -15,3 +15,5 @@ This Git consists of four main files:
 + *Main_seed_2020_size_1024_nfolds_2_trainfold_1.ipynb*
 + *Sub_efficient_sampling.ipynb*
 + *Train_efficient_sampling.ipynb*
+
+The whole network contains U-Net structure, self-attentive mechanism and some reference to ResNet structure. The above constructions make the whole network more suitable for image segmentation and learning.
