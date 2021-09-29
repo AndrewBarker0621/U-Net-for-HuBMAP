@@ -17,3 +17,5 @@ This Git consists of four main files:
 + *Train_efficient_sampling.ipynb*
 
 The whole network contains U-Net structure, self-attentive mechanism and some reference to ResNet structure. The above constructions make the whole network more suitable for image segmentation and learning.
+
+Considering that some of the comments and results in the original code are in Chinese, here is an appropriate translation, which can be appropriately referred to.
